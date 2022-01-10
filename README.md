@@ -1,6 +1,5 @@
 # About
-I created this app following a tutorial from DevelopedByEd's JavasScript/React course :D
-
+I created this app following a tutorial from DevelopedByEd's JavasScript/React course :D See the web-deployed version I made here: https://scotts-cool-music-player.netlify.app
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
