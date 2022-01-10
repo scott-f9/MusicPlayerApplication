@@ -1,6 +1,6 @@
 # Music Player Application
 An application to play some relaxing tunes :)
-![GitHub Logo](https://imgur.com/z9t6OYR)
+![GitHub Logo](https://i.imgur.com/z9t6OYR.png)
 
 
 
