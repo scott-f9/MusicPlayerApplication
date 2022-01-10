@@ -1,4 +1,10 @@
-# About
+# Music Player Application
+An application to play some relaxing tunes :)
+![GitHub Logo](https://imgur.com/z9t6OYR)
+
+
+
+## About
 I created this app following a tutorial from DevelopedByEd's JavasScript/React course :D See the web-deployed version I made here: https://scotts-cool-music-player.netlify.app
 # Getting Started with Create React App
 
